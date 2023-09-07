@@ -5,8 +5,8 @@ It includes three iris species with 50 samples each , as well as some properties
 The columns in this dataset are:
 
 Id
-SepalLengthCm
-SepalWidthCm
-PetalLengthCm
-PetalWidthCm
-Species
+Sepal Length in cm
+Sepal Width in cm
+Petal Length in cm
+Petal Width in cm
+Class :- Iris-setosa , Iris-versicolour , Iris-virginica 
